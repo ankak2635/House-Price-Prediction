@@ -1,0 +1,2 @@
+# House-Price-Prediction
+This project aims to build a house price prediction system using python. The XGBRegressor model has been trined on sklearn's Boston house price dataset. Seaborn and matplotlib have been used for visualization
